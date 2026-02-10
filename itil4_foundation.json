@@ -1,0 +1,2165 @@
+{
+  "version": 1,
+  "updatedAt": "2026-02-10",
+  "exam": "ITIL4_Foundation",
+  "questions": [
+    {
+      "id": "ITIL4-Q001",
+      "question": "What is the purpose of the ITIL service value system (SVS)?",
+      "options": [
+        "To define all ITIL practices",
+        "To ensure value co-creation through integrated components",
+        "To manage incidents and problems",
+        "To describe organizational structures"
+      ],
+      "correctIndex": 1,
+      "explanation": "The ITIL SVS describes how all components and activities work together to enable value co-creation.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "SVS",
+        "core-concept"
+      ]
+    },
+    {
+      "id": "ITIL4-Q002",
+      "question": "Which concept focuses on the benefits, usefulness, and importance of something?",
+      "options": [
+        "Outcome",
+        "Output",
+        "Value",
+        "Utility"
+      ],
+      "correctIndex": 2,
+      "explanation": "Value is the perceived benefits, usefulness, and importance of something.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "value",
+        "core-concept"
+      ]
+    },
+    {
+      "id": "ITIL4-Q003",
+      "question": "Which is NOT one of the four dimensions of service management?",
+      "options": [
+        "Organizations and people",
+        "Information and technology",
+        "Value streams and processes",
+        "Suppliers and budgets"
+      ],
+      "correctIndex": 3,
+      "explanation": "The four dimensions include suppliers and partners, not suppliers and budgets.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "four-dimensions"
+      ]
+    },
+    {
+      "id": "ITIL4-Q004",
+      "question": "What is an outcome in ITIL 4?",
+      "options": [
+        "A deliverable of a service",
+        "A result enabled by outputs",
+        "A configuration item",
+        "A measurable KPI"
+      ],
+      "correctIndex": 1,
+      "explanation": "An outcome is a result for a stakeholder enabled by one or more outputs.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "outcome",
+        "core-concept"
+      ]
+    },
+    {
+      "id": "ITIL4-Q005",
+      "question": "Which guiding principle recommends working iteratively with feedback?",
+      "options": [
+        "Focus on value",
+        "Collaborate and promote visibility",
+        "Progress iteratively with feedback",
+        "Keep it simple and practical"
+      ],
+      "correctIndex": 2,
+      "explanation": "This guiding principle encourages incremental improvements and regular feedback.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "guiding-principles"
+      ]
+    },
+    {
+      "id": "ITIL4-Q006",
+      "question": "Sample ITIL 4 Foundation practice question number 6?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "medium",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q007",
+      "question": "Sample ITIL 4 Foundation practice question number 7?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q008",
+      "question": "Sample ITIL 4 Foundation practice question number 8?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q009",
+      "question": "Sample ITIL 4 Foundation practice question number 9?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "medium",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q010",
+      "question": "Sample ITIL 4 Foundation practice question number 10?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q011",
+      "question": "Sample ITIL 4 Foundation practice question number 11?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q012",
+      "question": "Sample ITIL 4 Foundation practice question number 12?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "medium",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q013",
+      "question": "Sample ITIL 4 Foundation practice question number 13?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q014",
+      "question": "Sample ITIL 4 Foundation practice question number 14?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q015",
+      "question": "Sample ITIL 4 Foundation practice question number 15?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "medium",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q016",
+      "question": "Sample ITIL 4 Foundation practice question number 16?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q017",
+      "question": "Sample ITIL 4 Foundation practice question number 17?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q018",
+      "question": "Sample ITIL 4 Foundation practice question number 18?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "medium",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q019",
+      "question": "Sample ITIL 4 Foundation practice question number 19?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q020",
+      "question": "Sample ITIL 4 Foundation practice question number 20?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q021",
+      "question": "Sample ITIL 4 Foundation practice question number 21?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "medium",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q022",
+      "question": "Sample ITIL 4 Foundation practice question number 22?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q023",
+      "question": "Sample ITIL 4 Foundation practice question number 23?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q024",
+      "question": "Sample ITIL 4 Foundation practice question number 24?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "medium",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q025",
+      "question": "Sample ITIL 4 Foundation practice question number 25?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q026",
+      "question": "Sample ITIL 4 Foundation practice question number 26?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q027",
+      "question": "Sample ITIL 4 Foundation practice question number 27?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "medium",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q028",
+      "question": "Sample ITIL 4 Foundation practice question number 28?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q029",
+      "question": "Sample ITIL 4 Foundation practice question number 29?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q030",
+      "question": "Sample ITIL 4 Foundation practice question number 30?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "medium",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q031",
+      "question": "Sample ITIL 4 Foundation practice question number 31?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q032",
+      "question": "Sample ITIL 4 Foundation practice question number 32?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q033",
+      "question": "Sample ITIL 4 Foundation practice question number 33?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "medium",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q034",
+      "question": "Sample ITIL 4 Foundation practice question number 34?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q035",
+      "question": "Sample ITIL 4 Foundation practice question number 35?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q036",
+      "question": "Sample ITIL 4 Foundation practice question number 36?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "medium",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q037",
+      "question": "Sample ITIL 4 Foundation practice question number 37?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q038",
+      "question": "Sample ITIL 4 Foundation practice question number 38?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q039",
+      "question": "Sample ITIL 4 Foundation practice question number 39?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "medium",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q040",
+      "question": "Sample ITIL 4 Foundation practice question number 40?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q041",
+      "question": "Sample ITIL 4 Foundation practice question number 41?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q042",
+      "question": "Sample ITIL 4 Foundation practice question number 42?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "medium",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q043",
+      "question": "Sample ITIL 4 Foundation practice question number 43?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q044",
+      "question": "Sample ITIL 4 Foundation practice question number 44?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q045",
+      "question": "Sample ITIL 4 Foundation practice question number 45?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "medium",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q046",
+      "question": "Sample ITIL 4 Foundation practice question number 46?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q047",
+      "question": "Sample ITIL 4 Foundation practice question number 47?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q048",
+      "question": "Sample ITIL 4 Foundation practice question number 48?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "medium",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q049",
+      "question": "Sample ITIL 4 Foundation practice question number 49?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q050",
+      "question": "Sample ITIL 4 Foundation practice question number 50?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q051",
+      "question": "Sample ITIL 4 Foundation practice question number 51?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "medium",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q052",
+      "question": "Sample ITIL 4 Foundation practice question number 52?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q053",
+      "question": "Sample ITIL 4 Foundation practice question number 53?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q054",
+      "question": "Sample ITIL 4 Foundation practice question number 54?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "medium",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q055",
+      "question": "Sample ITIL 4 Foundation practice question number 55?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q056",
+      "question": "Sample ITIL 4 Foundation practice question number 56?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q057",
+      "question": "Sample ITIL 4 Foundation practice question number 57?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "medium",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q058",
+      "question": "Sample ITIL 4 Foundation practice question number 58?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q059",
+      "question": "Sample ITIL 4 Foundation practice question number 59?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q060",
+      "question": "Sample ITIL 4 Foundation practice question number 60?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "medium",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q061",
+      "question": "Sample ITIL 4 Foundation practice question number 61?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q062",
+      "question": "Sample ITIL 4 Foundation practice question number 62?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q063",
+      "question": "Sample ITIL 4 Foundation practice question number 63?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "medium",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q064",
+      "question": "Sample ITIL 4 Foundation practice question number 64?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q065",
+      "question": "Sample ITIL 4 Foundation practice question number 65?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q066",
+      "question": "Sample ITIL 4 Foundation practice question number 66?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "medium",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q067",
+      "question": "Sample ITIL 4 Foundation practice question number 67?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q068",
+      "question": "Sample ITIL 4 Foundation practice question number 68?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q069",
+      "question": "Sample ITIL 4 Foundation practice question number 69?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "medium",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q070",
+      "question": "Sample ITIL 4 Foundation practice question number 70?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q071",
+      "question": "Sample ITIL 4 Foundation practice question number 71?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q072",
+      "question": "Sample ITIL 4 Foundation practice question number 72?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "medium",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q073",
+      "question": "Sample ITIL 4 Foundation practice question number 73?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q074",
+      "question": "Sample ITIL 4 Foundation practice question number 74?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q075",
+      "question": "Sample ITIL 4 Foundation practice question number 75?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "medium",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q076",
+      "question": "Sample ITIL 4 Foundation practice question number 76?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q077",
+      "question": "Sample ITIL 4 Foundation practice question number 77?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q078",
+      "question": "Sample ITIL 4 Foundation practice question number 78?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "medium",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q079",
+      "question": "Sample ITIL 4 Foundation practice question number 79?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q080",
+      "question": "Sample ITIL 4 Foundation practice question number 80?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q081",
+      "question": "Sample ITIL 4 Foundation practice question number 81?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "medium",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q082",
+      "question": "Sample ITIL 4 Foundation practice question number 82?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q083",
+      "question": "Sample ITIL 4 Foundation practice question number 83?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q084",
+      "question": "Sample ITIL 4 Foundation practice question number 84?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "medium",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q085",
+      "question": "Sample ITIL 4 Foundation practice question number 85?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q086",
+      "question": "Sample ITIL 4 Foundation practice question number 86?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q087",
+      "question": "Sample ITIL 4 Foundation practice question number 87?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "medium",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q088",
+      "question": "Sample ITIL 4 Foundation practice question number 88?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q089",
+      "question": "Sample ITIL 4 Foundation practice question number 89?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q090",
+      "question": "Sample ITIL 4 Foundation practice question number 90?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "medium",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q091",
+      "question": "Sample ITIL 4 Foundation practice question number 91?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q092",
+      "question": "Sample ITIL 4 Foundation practice question number 92?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q093",
+      "question": "Sample ITIL 4 Foundation practice question number 93?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "medium",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q094",
+      "question": "Sample ITIL 4 Foundation practice question number 94?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q095",
+      "question": "Sample ITIL 4 Foundation practice question number 95?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q096",
+      "question": "Sample ITIL 4 Foundation practice question number 96?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "medium",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q097",
+      "question": "Sample ITIL 4 Foundation practice question number 97?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q098",
+      "question": "Sample ITIL 4 Foundation practice question number 98?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q099",
+      "question": "Sample ITIL 4 Foundation practice question number 99?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "medium",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q100",
+      "question": "Sample ITIL 4 Foundation practice question number 100?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q101",
+      "question": "Sample ITIL 4 Foundation practice question number 101?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q102",
+      "question": "Sample ITIL 4 Foundation practice question number 102?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "medium",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q103",
+      "question": "Sample ITIL 4 Foundation practice question number 103?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q104",
+      "question": "Sample ITIL 4 Foundation practice question number 104?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q105",
+      "question": "Sample ITIL 4 Foundation practice question number 105?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "medium",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q106",
+      "question": "Sample ITIL 4 Foundation practice question number 106?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q107",
+      "question": "Sample ITIL 4 Foundation practice question number 107?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q108",
+      "question": "Sample ITIL 4 Foundation practice question number 108?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "medium",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q109",
+      "question": "Sample ITIL 4 Foundation practice question number 109?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q110",
+      "question": "Sample ITIL 4 Foundation practice question number 110?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q111",
+      "question": "Sample ITIL 4 Foundation practice question number 111?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "medium",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q112",
+      "question": "Sample ITIL 4 Foundation practice question number 112?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q113",
+      "question": "Sample ITIL 4 Foundation practice question number 113?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q114",
+      "question": "Sample ITIL 4 Foundation practice question number 114?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "medium",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q115",
+      "question": "Sample ITIL 4 Foundation practice question number 115?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q116",
+      "question": "Sample ITIL 4 Foundation practice question number 116?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q117",
+      "question": "Sample ITIL 4 Foundation practice question number 117?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "medium",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q118",
+      "question": "Sample ITIL 4 Foundation practice question number 118?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q119",
+      "question": "Sample ITIL 4 Foundation practice question number 119?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "easy",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    },
+    {
+      "id": "ITIL4-Q120",
+      "question": "Sample ITIL 4 Foundation practice question number 120?",
+      "options": [
+        "Correct ITIL concept",
+        "Incorrect option A",
+        "Incorrect option B",
+        "Incorrect option C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation aligned with ITIL 4 Foundation syllabus concepts.",
+      "image": null,
+      "difficulty": "medium",
+      "tags": [
+        "practice",
+        "exam"
+      ]
+    }
+  ]
+}
