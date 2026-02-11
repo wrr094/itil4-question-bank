@@ -304,7 +304,7 @@
       "tags": ["guiding-principles"]
     }
     {
-      "id": "ITIL4-Q001",
+      "id": "ITIL4-Q021",
       "question": "What is the purpose of the ITIL Service Value System (SVS)?",
       "options": [
         "To define all ITIL practices",
@@ -319,7 +319,7 @@
       "tags": ["SVS", "core-concept"]
     },
     {
-      "id": "ITIL4-Q002",
+      "id": "ITIL4-Q022",
       "question": "Which guiding principle emphasizes focusing on value?",
       "options": [
         "Progress iteratively with feedback",
@@ -334,7 +334,7 @@
       "tags": ["guiding-principles"]
     },
     {
-      "id": "ITIL4-Q003",
+      "id": "ITIL4-Q023",
       "question": "What are the four dimensions of service management?",
       "options": [
         "Organizations & people, Information & technology, Partners & suppliers, Value streams & processes",
@@ -349,7 +349,7 @@
       "tags": ["four-dimensions"]
     },
     {
-      "id": "ITIL4-Q004",
+      "id": "ITIL4-Q024",
       "question": "Which guiding principle encourages incremental improvements with feedback?",
       "options": [
         "Start where you are",
@@ -364,7 +364,7 @@
       "tags": ["guiding-principles"]
     },
     {
-      "id": "ITIL4-Q005",
+      "id": "ITIL4-Q025",
       "question": "Which guiding principle promotes working together across roles and functions?",
       "options": [
         "Collaborate and promote visibility",
@@ -379,7 +379,7 @@
       "tags": ["guiding-principles"]
     },
     {
-      "id": "ITIL4-Q006",
+      "id": "ITIL4-Q026",
       "question": "What is the primary purpose of the 'Engage' value chain activity?",
       "options": [
         "To ensure continual improvement across all services",
@@ -394,7 +394,7 @@
       "tags": ["service-value-chain"]
     },
     {
-      "id": "ITIL4-Q007",
+      "id": "ITIL4-Q027",
       "question": "Which activity ensures continual improvement throughout the SVS?",
       "options": [
         "Plan",
@@ -409,7 +409,7 @@
       "tags": ["service-value-chain"]
     },
     {
-      "id": "ITIL4-Q008",
+      "id": "ITIL4-Q028",
       "question": "What is a 'value stream'?",
       "options": [
         "A sequence of activities to create value",
@@ -424,7 +424,7 @@
       "tags": ["SVS", "value-streams"]
     },
     {
-      "id": "ITIL4-Q009",
+      "id": "ITIL4-Q029",
       "question": "What is 'utility' in ITIL 4 terms?",
       "options": [
         "The functionality of a service that meets a need",
@@ -439,7 +439,7 @@
       "tags": ["key-concepts", "utility"]
     },
     {
-      "id": "ITIL4-Q010",
+      "id": "ITIL4-Q030",
       "question": "Which guiding principle encourages organizations to optimize and automate?",
       "options": [
         "Collaborate and promote visibility",
@@ -454,7 +454,7 @@
       "tags": ["guiding-principles"]
     },
     {
-      "id": "ITIL4-Q011",
+      "id": "ITIL4-Q031",
       "question": "Which ITIL practice is responsible for managing service disruptions?",
       "options": [
         "Problem Management",
@@ -469,7 +469,7 @@
       "tags": ["practices", "incident-management"]
     },
     {
-      "id": "ITIL4-Q012",
+      "id": "ITIL4-Q032",
       "question": "Which practice focuses on identifying the root cause of incidents?",
       "options": [
         "Problem Management",
@@ -484,7 +484,7 @@
       "tags": ["practices", "problem-management"]
     },
     {
-      "id": "ITIL4-Q013",
+      "id": "ITIL4-Q033",
       "question": "What does 'warranty' describe in ITIL 4?",
       "options": [
         "Fit for purpose",
@@ -499,7 +499,7 @@
       "tags": ["key-concepts", "warranty"]
     },
     {
-      "id": "ITIL4-Q014",
+      "id": "ITIL4-Q034",
       "question": "Which guiding principle recommends 'starting where you are'?",
       "options": [
         "Keep it simple and practical",
@@ -514,7 +514,7 @@
       "tags": ["guiding-principles"]
     },
     {
-      "id": "ITIL4-Q015",
+      "id": "ITIL4-Q035",
       "question": "Which service value chain activity converts demand into service outputs?",
       "options": [
         "Plan",
@@ -529,7 +529,7 @@
       "tags": ["service-value-chain"]
     },
     {
-      "id": "ITIL4-Q016",
+      "id": "ITIL4-Q036",
       "question": "What is an 'outcome' in ITIL 4?",
       "options": [
         "A deliverable from a service",
@@ -544,7 +544,7 @@
       "tags": ["key-concepts", "outcome"]
     },
     {
-      "id": "ITIL4-Q017",
+      "id": "ITIL4-Q037",
       "question": "Which guiding principle emphasizes simplicity and practicality?",
       "options": [
         "Keep it simple and practical",
@@ -559,7 +559,7 @@
       "tags": ["guiding-principles"]
     },
     {
-      "id": "ITIL4-Q018",
+      "id": "ITIL4-Q038",
       "question": "Which practice manages service requests and user queries?",
       "options": [
         "Incident Management",
@@ -574,7 +574,7 @@
       "tags": ["practices", "service-desk"]
     },
     {
-      "id": "ITIL4-Q019",
+      "id": "ITIL4-Q039",
       "question": "Which service value chain activity focuses on planning and aligning strategy?",
       "options": [
         "Plan",
@@ -589,7 +589,7 @@
       "tags": ["service-value-chain"]
     },
     {
-      "id": "ITIL4-Q020",
+      "id": "ITIL4-Q040",
       "question": "Which guiding principle encourages looking at the organization as a whole?",
       "options": [
         "Think and work holistically",
