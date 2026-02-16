@@ -1803,7 +1803,7 @@
   "difficulty": "hard",
   "tags": ["SVS", "governance"]
 },
-    {
+{
   "id": "ITIL4-Q121",
   "question": "Which practice ensures that services deliver agreed business outcomes?",
   "options": [
