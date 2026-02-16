@@ -302,306 +302,458 @@
       "image": null,
       "difficulty": "medium",
       "tags": ["guiding-principles"]
-    }
-    {
-      "id": "ITIL4-Q021",
-      "question": "What is the purpose of the ITIL Service Value System (SVS)?",
-      "options": [
-        "To define all ITIL practices",
-        "To ensure value co-creation through integrated components",
-        "To manage incidents and problems",
-        "To establish hierarchical roles"
-      ],
-      "correctIndex": 1,
-      "explanation": "The ITIL SVS describes how all components and activities work together to enable value co-creation.",
-      "image": null,
-      "difficulty": "easy",
-      "tags": ["SVS", "core-concept"]
     },
-    {
-      "id": "ITIL4-Q022",
-      "question": "Which guiding principle emphasizes focusing on value?",
-      "options": [
-        "Progress iteratively with feedback",
-        "Focus on value",
-        "Optimize and automate",
-        "Keep it simple and practical"
-      ],
-      "correctIndex": 1,
-      "explanation": "This principle ensures that all activities and decisions focus on maximizing value for stakeholders.",
-      "image": null,
-      "difficulty": "easy",
-      "tags": ["guiding-principles"]
-    },
-    {
-      "id": "ITIL4-Q023",
-      "question": "What are the four dimensions of service management?",
-      "options": [
-        "Organizations & people, Information & technology, Partners & suppliers, Value streams & processes",
-        "People, Processes, Technology, Budgets",
-        "Governance, Risk, Compliance, Security",
-        "Strategy, Design, Transition, Operation"
-      ],
-      "correctIndex": 0,
-      "explanation": "The four dimensions ensure a holistic approach covering all aspects necessary for effective service management.",
-      "image": null,
-      "difficulty": "easy",
-      "tags": ["four-dimensions"]
-    },
-    {
-      "id": "ITIL4-Q024",
-      "question": "Which guiding principle encourages incremental improvements with feedback?",
-      "options": [
-        "Start where you are",
-        "Progress iteratively with feedback",
-        "Collaborate and promote visibility",
-        "Think and work holistically"
-      ],
-      "correctIndex": 1,
-      "explanation": "This principle promotes breaking work into smaller pieces and learning from each iteration.",
-      "image": null,
-      "difficulty": "easy",
-      "tags": ["guiding-principles"]
-    },
-    {
-      "id": "ITIL4-Q025",
-      "question": "Which guiding principle promotes working together across roles and functions?",
-      "options": [
-        "Collaborate and promote visibility",
-        "Keep it simple and practical",
-        "Focus on value",
-        "Progress iteratively with feedback"
-      ],
-      "correctIndex": 0,
-      "explanation": "Collaboration ensures alignment, shared understanding, and visibility across the organization.",
-      "image": null,
-      "difficulty": "easy",
-      "tags": ["guiding-principles"]
-    },
-    {
-      "id": "ITIL4-Q026",
-      "question": "What is the primary purpose of the 'Engage' value chain activity?",
-      "options": [
-        "To ensure continual improvement across all services",
-        "To provide a good understanding of stakeholder needs",
-        "To design and transition new services",
-        "To deliver and support services"
-      ],
-      "correctIndex": 1,
-      "explanation": "'Engage' focuses on interactions with stakeholders and understanding their requirements and feedback.",
-      "image": null,
-      "difficulty": "medium",
-      "tags": ["service-value-chain"]
-    },
-    {
-      "id": "ITIL4-Q027",
-      "question": "Which activity ensures continual improvement throughout the SVS?",
-      "options": [
-        "Plan",
-        "Improve",
-        "Obtain/Build",
-        "Deliver & Support"
-      ],
-      "correctIndex": 1,
-      "explanation": "'Improve' drives continual improvement across all services, practices, and value chain activities.",
-      "image": null,
-      "difficulty": "medium",
-      "tags": ["service-value-chain"]
-    },
-    {
-      "id": "ITIL4-Q028",
-      "question": "What is a 'value stream'?",
-      "options": [
-        "A sequence of activities to create value",
-        "A list of ITIL practices",
-        "A configuration item",
-        "A KPI measurement"
-      ],
-      "correctIndex": 0,
-      "explanation": "Value streams define the steps an organization takes to convert demand into valuable outcomes for stakeholders.",
-      "image": null,
-      "difficulty": "medium",
-      "tags": ["SVS", "value-streams"]
-    },
-    {
-      "id": "ITIL4-Q029",
-      "question": "What is 'utility' in ITIL 4 terms?",
-      "options": [
-        "The functionality of a service that meets a need",
-        "The warranty of a service",
-        "A service outcome",
-        "An organizational KPI"
-      ],
-      "correctIndex": 0,
-      "explanation": "Utility is what the service does to deliver benefits to customers — 'fit for purpose'.",
-      "image": null,
-      "difficulty": "easy",
-      "tags": ["key-concepts", "utility"]
-    },
-    {
-      "id": "ITIL4-Q030",
-      "question": "Which guiding principle encourages organizations to optimize and automate?",
-      "options": [
-        "Collaborate and promote visibility",
-        "Progress iteratively with feedback",
-        "Optimize and automate",
-        "Start where you are"
-      ],
-      "correctIndex": 2,
-      "explanation": "This principle emphasizes improving efficiency through automation and optimization of processes.",
-      "image": null,
-      "difficulty": "medium",
-      "tags": ["guiding-principles"]
-    },
-    {
-      "id": "ITIL4-Q031",
-      "question": "Which ITIL practice is responsible for managing service disruptions?",
-      "options": [
-        "Problem Management",
-        "Incident Management",
-        "Change Enablement",
-        "Service Desk"
-      ],
-      "correctIndex": 1,
-      "explanation": "Incident Management aims to restore normal service operation as quickly as possible.",
-      "image": null,
-      "difficulty": "easy",
-      "tags": ["practices", "incident-management"]
-    },
-    {
-      "id": "ITIL4-Q032",
-      "question": "Which practice focuses on identifying the root cause of incidents?",
-      "options": [
-        "Problem Management",
-        "Incident Management",
-        "Service Request Management",
-        "Change Enablement"
-      ],
-      "correctIndex": 0,
-      "explanation": "Problem Management seeks to prevent incidents by identifying and eliminating root causes.",
-      "image": null,
-      "difficulty": "medium",
-      "tags": ["practices", "problem-management"]
-    },
-    {
-      "id": "ITIL4-Q033",
-      "question": "What does 'warranty' describe in ITIL 4?",
-      "options": [
-        "Fit for purpose",
-        "Fit for use",
-        "The functionality of a service",
-        "The service outcome"
-      ],
-      "correctIndex": 1,
-      "explanation": "Warranty refers to assurance that a service will meet agreed requirements, often described as 'fit for use'.",
-      "image": null,
-      "difficulty": "medium",
-      "tags": ["key-concepts", "warranty"]
-    },
-    {
-      "id": "ITIL4-Q034",
-      "question": "Which guiding principle recommends 'starting where you are'?",
-      "options": [
-        "Keep it simple and practical",
-        "Start where you are",
-        "Progress iteratively with feedback",
-        "Focus on value"
-      ],
-      "correctIndex": 1,
-      "explanation": "This principle advises using existing resources, capabilities, and data as the foundation for improvement.",
-      "image": null,
-      "difficulty": "easy",
-      "tags": ["guiding-principles"]
-    },
-    {
-      "id": "ITIL4-Q035",
-      "question": "Which service value chain activity converts demand into service outputs?",
-      "options": [
-        "Plan",
-        "Obtain/Build",
-        "Design & Transition",
-        "Deliver & Support"
-      ],
-      "correctIndex": 1,
-      "explanation": "'Obtain/Build' ensures that service components are created or acquired to meet specifications and demand.",
-      "image": null,
-      "difficulty": "medium",
-      "tags": ["service-value-chain"]
-    },
-    {
-      "id": "ITIL4-Q036",
-      "question": "What is an 'outcome' in ITIL 4?",
-      "options": [
-        "A deliverable from a service",
-        "A result enabled by outputs",
-        "A configuration item",
-        "A KPI metric"
-      ],
-      "correctIndex": 1,
-      "explanation": "Outcomes are the results for stakeholders achieved by using outputs.",
-      "image": null,
-      "difficulty": "easy",
-      "tags": ["key-concepts", "outcome"]
-    },
-    {
-      "id": "ITIL4-Q037",
-      "question": "Which guiding principle emphasizes simplicity and practicality?",
-      "options": [
-        "Keep it simple and practical",
-        "Focus on value",
-        "Think and work holistically",
-        "Collaborate and promote visibility"
-      ],
-      "correctIndex": 0,
-      "explanation": "This principle advises removing unnecessary complexity and making practical, easy-to-implement solutions.",
-      "image": null,
-      "difficulty": "easy",
-      "tags": ["guiding-principles"]
-    },
-    {
-      "id": "ITIL4-Q038",
-      "question": "Which practice manages service requests and user queries?",
-      "options": [
-        "Incident Management",
-        "Service Desk",
-        "Change Enablement",
-        "Problem Management"
-      ],
-      "correctIndex": 1,
-      "explanation": "The Service Desk handles requests, questions, and incidents from users, serving as a single point of contact.",
-      "image": null,
-      "difficulty": "easy",
-      "tags": ["practices", "service-desk"]
-    },
-    {
-      "id": "ITIL4-Q039",
-      "question": "Which service value chain activity focuses on planning and aligning strategy?",
-      "options": [
-        "Plan",
-        "Engage",
-        "Improve",
-        "Design & Transition"
-      ],
-      "correctIndex": 0,
-      "explanation": "'Plan' ensures a shared understanding of vision, current status, and improvement direction across all SVS components.",
-      "image": null,
-      "difficulty": "medium",
-      "tags": ["service-value-chain"]
-    },
-    {
-      "id": "ITIL4-Q040",
-      "question": "Which guiding principle encourages looking at the organization as a whole?",
-      "options": [
-        "Think and work holistically",
-        "Focus on value",
-        "Collaborate and promote visibility",
-        "Start where you are"
-      ],
-      "correctIndex": 0,
-      "explanation": "Holistic thinking ensures that all parts of the organization are considered in decisions and improvements.",
-      "image": null,
-      "difficulty": "medium",
-      "tags": ["guiding-principles"]
-    }
+{
+  "id": "ITIL4-Q021",
+  "question": "Which ITIL guiding principle recommends minimizing complexity?",
+  "options": [
+    "Start where you are",
+    "Keep it simple and practical",
+    "Optimize and automate",
+    "Think and work holistically"
+  ],
+  "correctIndex": 1,
+  "explanation": "The principle 'Keep it simple and practical' advises eliminating unnecessary steps and complexity.",
+  "image": null,
+  "difficulty": "easy",
+  "tags": ["guiding-principles"]
+},
+{
+  "id": "ITIL4-Q022",
+  "question": "Which component of the Service Value System ensures that policies and direction are followed?",
+  "options": [
+    "Practices",
+    "Governance",
+    "Continual Improvement",
+    "Service Value Chain"
+  ],
+  "correctIndex": 1,
+  "explanation": "Governance provides oversight, direction, and control to ensure organizational objectives are achieved.",
+  "image": null,
+  "difficulty": "medium",
+  "tags": ["SVS", "governance"]
+},
+{
+  "id": "ITIL4-Q023",
+  "question": "What is the primary purpose of the Incident Management practice?",
+  "options": [
+    "To identify the root cause of incidents",
+    "To restore normal service operation as quickly as possible",
+    "To authorize changes",
+    "To handle service requests"
+  ],
+  "correctIndex": 1,
+  "explanation": "Incident Management focuses on restoring service as quickly as possible to minimize business impact.",
+  "image": null,
+  "difficulty": "easy",
+  "tags": ["practices", "incident-management"]
+},
+{
+  "id": "ITIL4-Q024",
+  "question": "Which service value chain activity ensures service components meet design specifications?",
+  "options": [
+    "Plan",
+    "Engage",
+    "Design & Transition",
+    "Improve"
+  ],
+  "correctIndex": 2,
+  "explanation": "Design & Transition ensures services meet quality, cost, and time-to-market requirements.",
+  "image": null,
+  "difficulty": "medium",
+  "tags": ["service-value-chain"]
+},
+{
+  "id": "ITIL4-Q025",
+  "question": "What is meant by 'value' in ITIL 4?",
+  "options": [
+    "The cost of a service",
+    "The benefits perceived by stakeholders",
+    "The performance metrics of a service",
+    "The outputs produced by a service"
+  ],
+  "correctIndex": 1,
+  "explanation": "Value is the perceived benefits, usefulness, and importance of something to stakeholders.",
+  "image": null,
+  "difficulty": "easy",
+  "tags": ["key-concepts", "value"]
+},
+{
+  "id": "ITIL4-Q026",
+  "question": "Which guiding principle encourages transparency and shared understanding?",
+  "options": [
+    "Collaborate and promote visibility",
+    "Think and work holistically",
+    "Focus on value",
+    "Optimize and automate"
+  ],
+  "correctIndex": 0,
+  "explanation": "This principle promotes open communication and shared visibility to improve collaboration.",
+  "image": null,
+  "difficulty": "easy",
+  "tags": ["guiding-principles"]
+},
+{
+  "id": "ITIL4-Q027",
+  "question": "Which practice ensures that risks are properly assessed before making a change?",
+  "options": [
+    "Incident Management",
+    "Change Enablement",
+    "Problem Management",
+    "Service Request Management"
+  ],
+  "correctIndex": 1,
+  "explanation": "Change Enablement ensures changes are assessed, authorized, and scheduled to reduce risk.",
+  "image": null,
+  "difficulty": "medium",
+  "tags": ["practices", "change-enablement"]
+},
+{
+  "id": "ITIL4-Q028",
+  "question": "What is the purpose of the Continual Improvement component of the SVS?",
+  "options": [
+    "To manage daily operations",
+    "To align services with changing business needs",
+    "To authorize changes",
+    "To define governance policies"
+  ],
+  "correctIndex": 1,
+  "explanation": "Continual Improvement ensures ongoing alignment of services with business needs through improvements.",
+  "image": null,
+  "difficulty": "medium",
+  "tags": ["SVS", "continual-improvement"]
+},
+{
+  "id": "ITIL4-Q029",
+  "question": "Which service value chain activity focuses on supporting live services?",
+  "options": [
+    "Design & Transition",
+    "Deliver & Support",
+    "Engage",
+    "Obtain/Build"
+  ],
+  "correctIndex": 1,
+  "explanation": "Deliver & Support ensures services are delivered and supported according to agreed specifications.",
+  "image": null,
+  "difficulty": "easy",
+  "tags": ["service-value-chain"]
+},
+{
+  "id": "ITIL4-Q030",
+  "question": "What is an 'output' in ITIL 4?",
+  "options": [
+    "A result for a stakeholder",
+    "A deliverable produced by an activity",
+    "A measure of performance",
+    "A service warranty"
+  ],
+  "correctIndex": 1,
+  "explanation": "Outputs are tangible or intangible deliverables produced by activities.",
+  "image": null,
+  "difficulty": "easy",
+  "tags": ["key-concepts", "output"]
+},
+{
+  "id": "ITIL4-Q031",
+  "question": "Which guiding principle encourages evaluating what already exists?",
+  "options": [
+    "Start where you are",
+    "Focus on value",
+    "Optimize and automate",
+    "Keep it simple and practical"
+  ],
+  "correctIndex": 0,
+  "explanation": "This principle advises assessing existing processes and capabilities before making changes.",
+  "image": null,
+  "difficulty": "easy",
+  "tags": ["guiding-principles"]
+},
+{
+  "id": "ITIL4-Q032",
+  "question": "Which practice manages user requests such as password resets?",
+  "options": [
+    "Incident Management",
+    "Problem Management",
+    "Service Request Management",
+    "Change Enablement"
+  ],
+  "correctIndex": 2,
+  "explanation": "Service Request Management handles predefined, user-initiated requests.",
+  "image": null,
+  "difficulty": "easy",
+  "tags": ["practices", "service-request-management"]
+},
+{
+  "id": "ITIL4-Q033",
+  "question": "Which dimension of service management considers skills and competencies?",
+  "options": [
+    "Organizations and people",
+    "Information and technology",
+    "Value streams and processes",
+    "Suppliers and partners"
+  ],
+  "correctIndex": 0,
+  "explanation": "This dimension covers roles, responsibilities, skills, and organizational culture.",
+  "image": null,
+  "difficulty": "easy",
+  "tags": ["four-dimensions"]
+},
+{
+  "id": "ITIL4-Q034",
+  "question": "Which guiding principle encourages end-to-end service consideration?",
+  "options": [
+    "Think and work holistically",
+    "Collaborate and promote visibility",
+    "Focus on value",
+    "Progress iteratively with feedback"
+  ],
+  "correctIndex": 0,
+  "explanation": "This principle ensures all components and activities are considered together.",
+  "image": null,
+  "difficulty": "medium",
+  "tags": ["guiding-principles"]
+},
+{
+  "id": "ITIL4-Q035",
+  "question": "Which practice provides a single point of contact for users?",
+  "options": [
+    "Service Desk",
+    "Incident Management",
+    "Problem Management",
+    "Change Enablement"
+  ],
+  "correctIndex": 0,
+  "explanation": "The Service Desk acts as the central point of communication between users and the service provider.",
+  "image": null,
+  "difficulty": "easy",
+  "tags": ["practices", "service-desk"]
+},
+{
+  "id": "ITIL4-Q036",
+  "question": "Which value chain activity focuses on understanding stakeholder needs?",
+  "options": [
+    "Engage",
+    "Plan",
+    "Improve",
+    "Deliver & Support"
+  ],
+  "correctIndex": 0,
+  "explanation": "Engage ensures a good understanding of stakeholder needs and expectations.",
+  "image": null,
+  "difficulty": "medium",
+  "tags": ["service-value-chain"]
+},
+{
+  "id": "ITIL4-Q037",
+  "question": "What does 'fit for use' describe?",
+  "options": [
+    "Utility",
+    "Warranty",
+    "Outcome",
+    "Output"
+  ],
+  "correctIndex": 1,
+  "explanation": "Warranty refers to assurance that a service will perform as required — 'fit for use'.",
+  "image": null,
+  "difficulty": "medium",
+  "tags": ["key-concepts", "warranty"]
+},
+{
+  "id": "ITIL4-Q038",
+  "question": "Which practice aims to reduce the likelihood of incidents occurring?",
+  "options": [
+    "Incident Management",
+    "Problem Management",
+    "Service Desk",
+    "Service Request Management"
+  ],
+  "correctIndex": 1,
+  "explanation": "Problem Management identifies and resolves root causes to prevent incidents.",
+  "image": null,
+  "difficulty": "medium",
+  "tags": ["practices", "problem-management"]
+},
+{
+  "id": "ITIL4-Q039",
+  "question": "Which guiding principle recommends using automation after optimization?",
+  "options": [
+    "Optimize and automate",
+    "Keep it simple and practical",
+    "Focus on value",
+    "Progress iteratively with feedback"
+  ],
+  "correctIndex": 0,
+  "explanation": "Processes should be optimized before being automated to avoid inefficiencies.",
+  "image": null,
+  "difficulty": "medium",
+  "tags": ["guiding-principles"]
+},
+{
+  "id": "ITIL4-Q040",
+  "question": "Which dimension focuses on external relationships?",
+  "options": [
+    "Suppliers and partners",
+    "Organizations and people",
+    "Information and technology",
+    "Value streams and processes"
+  ],
+  "correctIndex": 0,
+  "explanation": "This dimension addresses relationships with suppliers, partners, and external stakeholders.",
+  "image": null,
+  "difficulty": "easy",
+  "tags": ["four-dimensions"]
+},
+{
+  "id": "ITIL4-Q041",
+  "question": "Which component of the SVS includes all ITIL practices?",
+  "options": [
+    "Governance",
+    "Practices",
+    "Continual Improvement",
+    "Service Value Chain"
+  ],
+  "correctIndex": 1,
+  "explanation": "Practices are reusable sets of organizational resources designed to perform work.",
+  "image": null,
+  "difficulty": "easy",
+  "tags": ["SVS", "practices"]
+},
+{
+  "id": "ITIL4-Q042",
+  "question": "Which activity ensures alignment between organizational strategy and services?",
+  "options": [
+    "Plan",
+    "Engage",
+    "Design & Transition",
+    "Improve"
+  ],
+  "correctIndex": 0,
+  "explanation": "Plan ensures shared understanding of vision, status, and improvement direction.",
+  "image": null,
+  "difficulty": "medium",
+  "tags": ["service-value-chain"]
+},
+{
+  "id": "ITIL4-Q043",
+  "question": "Which concept describes what a service does?",
+  "options": [
+    "Warranty",
+    "Utility",
+    "Outcome",
+    "Value"
+  ],
+  "correctIndex": 1,
+  "explanation": "Utility describes the functionality of a service — 'fit for purpose'.",
+  "image": null,
+  "difficulty": "easy",
+  "tags": ["key-concepts", "utility"]
+},
+{
+  "id": "ITIL4-Q044",
+  "question": "Which practice ensures information is accurate and available?",
+  "options": [
+    "Knowledge Management",
+    "Incident Management",
+    "Change Enablement",
+    "Service Desk"
+  ],
+  "correctIndex": 0,
+  "explanation": "Knowledge Management maintains and improves effective use of information.",
+  "image": null,
+  "difficulty": "medium",
+  "tags": ["practices", "knowledge-management"]
+},
+{
+  "id": "ITIL4-Q045",
+  "question": "Which guiding principle focuses on delivering benefits to stakeholders?",
+  "options": [
+    "Focus on value",
+    "Collaborate and promote visibility",
+    "Think and work holistically",
+    "Start where you are"
+  ],
+  "correctIndex": 0,
+  "explanation": "All activities should contribute directly or indirectly to stakeholder value.",
+  "image": null,
+  "difficulty": "easy",
+  "tags": ["guiding-principles"]
+},
+{
+  "id": "ITIL4-Q046",
+  "question": "Which value chain activity acquires service components?",
+  "options": [
+    "Obtain/Build",
+    "Design & Transition",
+    "Deliver & Support",
+    "Engage"
+  ],
+  "correctIndex": 0,
+  "explanation": "Obtain/Build ensures components are available when needed.",
+  "image": null,
+  "difficulty": "medium",
+  "tags": ["service-value-chain"]
+},
+{
+  "id": "ITIL4-Q047",
+  "question": "Which dimension includes workflows and procedures?",
+  "options": [
+    "Value streams and processes",
+    "Organizations and people",
+    "Information and technology",
+    "Suppliers and partners"
+  ],
+  "correctIndex": 0,
+  "explanation": "This dimension focuses on how work is coordinated and performed.",
+  "image": null,
+  "difficulty": "easy",
+  "tags": ["four-dimensions"]
+},
+{
+  "id": "ITIL4-Q048",
+  "question": "Which practice manages normal and emergency changes?",
+  "options": [
+    "Change Enablement",
+    "Incident Management",
+    "Problem Management",
+    "Service Desk"
+  ],
+  "correctIndex": 0,
+  "explanation": "Change Enablement ensures changes are assessed, approved, and scheduled appropriately.",
+  "image": null,
+  "difficulty": "medium",
+  "tags": ["practices", "change-enablement"]
+},
+{
+  "id": "ITIL4-Q049",
+  "question": "Which SVS component provides a structured improvement approach?",
+  "options": [
+    "Governance",
+    "Continual Improvement",
+    "Practices",
+    "Service Value Chain"
+  ],
+  "correctIndex": 1,
+  "explanation": "Continual Improvement uses a structured model to improve services and practices.",
+  "image": null,
+  "difficulty": "medium",
+  "tags": ["SVS", "continual-improvement"]
+},
+{
+  "id": "ITIL4-Q050",
+  "question": "Which ITIL practice focuses on minimizing negative business impact?",
+  "options": [
+    "Incident Management",
+    "Problem Management",
+    "Change Enablement",
+    "Service Request Management"
+  ],
+  "correctIndex": 0,
+  "explanation": "Incident Management aims to minimize the impact of service disruptions.",
+  "image": null,
+  "difficulty": "easy",
+  "tags": ["practices", "incident-management"]
+}
+
+    
   ]
 }
