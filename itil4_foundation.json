@@ -1203,7 +1203,7 @@
   "difficulty": "medium",
   "tags": ["practices", "service-level-management"]
 },
-    {
+{
   "id": "ITIL4-Q081",
   "question": "What is the purpose of the 'Change enablement' practice?",
   "options": [
