@@ -1,0 +1,17 @@
+# ITIL 4 Exam Practice
+
+This app helps users practice for the ITIL 4 Foundation exam using timed quizzes and exam-mode questions.
+
+## Features
+- 40-question exam simulation
+- 60-minute timer
+- Offline caching
+- Flag questions for review
+
+## Support
+For issues or feedback, please open an issue on GitHub:
+https://github.com/wrr094/itil4-question-bank/issues
+
+## Disclaimer
+This app is not affiliated with or endorsed by AXELOS Limited.
+ITIL® is a registered trademark of AXELOS Limited.
